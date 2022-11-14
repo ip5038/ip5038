@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ip5038
-- 👀 I’m interested in software development (iOS and desktop)
+- 👋 Hi, I’m Ishan
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning computer science at UMass Lowell
 - 📫 You can reach me at ip5038@gmail.com
 
